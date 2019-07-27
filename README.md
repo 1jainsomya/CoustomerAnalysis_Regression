@@ -4,3 +4,7 @@ Finding an appropriate method for a clothing company to whether to focus on Mobi
 Analysis of the activity of customers in store, mobile app, and website.
 Using this analysis we will try to figure out whether the company needs to focus more on the mobile app or website.
 This will help them in marketing and give direction to the company.
+ 
+ 
+ Dataset file: Ecommerce Customer
+ Code file: Customer_Analysis
