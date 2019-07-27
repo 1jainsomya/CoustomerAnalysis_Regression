@@ -1,6 +1,6 @@
 # CoustomerAnalysis_Regression
-Finding appropriate method for clothing company to whether focus on Mobile Application or Website 
+Finding an appropriate method for a clothing company to whether to focus on Mobile Application or Website using Exploratory data analysis and linear regression
 
-Aanalysis of activity of coustomer in store,mobile app and website.
-Using this analysis we will try to figure out that whether company need to focus more on Mobile app or website.
+Analysis of the activity of customers in store, mobile app, and website.
+Using this analysis we will try to figure out whether the company needs to focus more on the mobile app or website.
 This will help them in marketing and give direction to the company.
