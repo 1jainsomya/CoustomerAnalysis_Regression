@@ -3,7 +3,7 @@
 
 # WEBSITE VS MOBILE APP
 
-# Aanalysis of activity of coustomer in store,mobile app and website.
+# Aanalysis of activities of customer in store,mobile app and website.
 # Using this analysis we will try to figure out that whether company need to focus more on Mobile app or website.
 # This will help them in marketing and give direction to the company.
 
